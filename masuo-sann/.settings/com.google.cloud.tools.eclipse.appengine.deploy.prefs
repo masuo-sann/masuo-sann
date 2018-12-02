@@ -5,4 +5,4 @@ project.bucket=
 project.id=masuo-sann
 project.previousVersion.stop=true
 project.promote=true
-project.version=
+project.version=issue2
